@@ -1,0 +1,23 @@
+img {
+    width: 500px;
+    height: 400px;
+}
+H1 { 
+    color: #9b3939; 
+    font-size: 45px;
+    font-family: 'Poor Story', cursive;
+}
+p { 
+    color: #3bb5b1;
+    font-size: 35px;
+    font-family: 'Poor Story', cursive;
+}
+Li{ 
+    color : #98aaf2; 
+   font-family: 'Poor Story', cursive;
+   font-size: 35px;
+
+}
+Body {
+        background-color: #6544a3;
+}
